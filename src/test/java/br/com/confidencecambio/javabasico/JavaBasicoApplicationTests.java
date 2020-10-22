@@ -1,13 +1,13 @@
 package br.com.confidencecambio.javabasico;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaBasicoApplicationTests {
+public class JavaBasicoApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
